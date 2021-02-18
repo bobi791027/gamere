@@ -1,0 +1,4 @@
+opencv_python==1.19.4
+pygame==1.9.6
+pillow==8.1.0
+matplotlib==3.2.2
