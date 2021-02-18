@@ -1,6 +1,13 @@
 #gamere:一个Python3.8的游戏第三方库
 ##什么是gamere?
-gamere基于**pygame**，适合开发方格类的二维游戏。
+gamere基于**pygame**，适合开发方格类的二维游戏
+
+##安装gamere
+```cmd
+git clone https://github.com/bobi791027/gamere
+python -m pip install -r requirement.txt
+python setup.py install
+```
 
 ##gamere的优点
 以下代码实现的**黑白迭代**小游戏，仅用了**71**行代码
